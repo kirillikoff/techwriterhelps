@@ -1,4 +1,4 @@
-# Шаблоны документации
+# Шаблоны для документации
 
 - [Бесплатные шаблоны документации](https://github.com/topics/documentation-template)
 - [The Good Docs Project](https://gitlab.com/tgdp/templates)
