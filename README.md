@@ -1,2 +1,3 @@
-# techwriterhelps
-Helpful Resources for Technical Writers from a Technical Writer.
+# Полезные реcурсы для технического писателя
+
+- [Список универсальных вопросов](docs/questions.md)
