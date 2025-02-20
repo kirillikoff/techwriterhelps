@@ -1,5 +1,6 @@
 # Шаблоны для документации
 
-- [Бесплатные шаблоны документации](https://github.com/topics/documentation-template)
+- [The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium)
+- [README-Template]([README-Template](https://github.com/madhur-taneja/README-Template/blob/master/README.md))
 - [The Good Docs Project](https://gitlab.com/tgdp/templates)
-- [GitHub Docs](https://docs.github.com/en/contributing/writing-for-github-docs/templates)
+- [Шаблоны GitHub Docs](https://docs.github.com/en/contributing/writing-for-github-docs/templates)
