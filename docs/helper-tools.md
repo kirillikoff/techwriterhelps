@@ -19,6 +19,13 @@
 - [How to Use Python: Your First Steps](https://realpython.com/python-first-steps/#why-you-should-use-python)
 - [Питон, панды и анаконда: что внутри у Jupyter Notebook](https://practicum.yandex.ru/blog/chto-takoe-jupyter-notebook/)
 
+## Работа с промптами
+
+- [Как правильно писать промты? Основная структура](https://www.ai-lib.pro/tpost/iiidx7y6j1-kak-pravilno-pisat-promti-osnovnaya-stru)
+- [Библиотека Anthropic](https://docs.anthropic.com/ru/prompt-library/)
+- [Обучающий курс на любую тему](https://www.ai-lib.pro/tpost/os6n8nkcp1-obuchayuschii-kurs-na-lyubuyu-temu)
+- [Как писать промты, чтобы нейросеть выдавала нужный результат](https://education.yandex.ru/journal/kak-pisat-prompty-chtoby-nejroset-vydavala-nuzhnyj-rezultat)
+
 ## Консоль разработчика в браузере
 
 - [Гайд по DevTools: как открыть инструменты разработчика в браузере и чем они полезны](https://practicum.yandex.ru/blog/devtools-instrumenty-razrabotchika/#poleznye-funkcii)
@@ -29,10 +36,3 @@
 - [Почти все, что вы хотели бы знать про Docker](https://habr.com/ru/articles/822707/)
 - [Docker. Работа с образами](https://gist.github.com/dnncomp/ad439e3128854c71fd6b8ac4bb68005c)
 - [Как работает Docker: подробный гайд от техлида](https://skillbox.ru/media/code/kak-rabotaet-docker-podrobnyy-gayd-ot-tekhlida/)
-
-## Работа с промптами
-
-- [Как правильно писать промты? Основная структура](https://www.ai-lib.pro/tpost/iiidx7y6j1-kak-pravilno-pisat-promti-osnovnaya-stru)
-- [Библиотека Anthropic](https://docs.anthropic.com/ru/prompt-library/)
-- [Обучающий курс на любую тему](https://www.ai-lib.pro/tpost/os6n8nkcp1-obuchayuschii-kurs-na-lyubuyu-temu)
- 
